@@ -6,6 +6,8 @@ The system was developed in Python and tested under constrained embedded conditi
 Deployment Instructions
 This section provides a structured, step-by-step guide for replicating the full pipeline of this AI-powered ecological deterrence system—from dataset preparation and training to model deployment on the Raspberry Pi 5 with the Hailo+ AI accelerator.
 
+[![Project Demo Video](https://img.youtube.com/vi/0qj1TTMSMAY/0.jpg)](https://www.youtube.com/watch?v=0qj1TTMSMAY)
+
 ## 🧪 Deployment Instructions
 
 This section provides a structured, step-by-step guide for replicating the full pipeline of this AI-powered ecological deterrence system—from dataset preparation and training to model deployment on the Raspberry Pi 5 with the Hailo+ AI accelerator.
