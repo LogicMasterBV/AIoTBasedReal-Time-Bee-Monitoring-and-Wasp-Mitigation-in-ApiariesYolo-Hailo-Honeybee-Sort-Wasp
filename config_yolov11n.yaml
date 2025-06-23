@@ -1,0 +1,6 @@
+train: /home/bajram/Hailo8l/datasets/train
+val: /home/bajram/Hailo8l/datasets/val
+
+nc: 2
+
+names: ["Bee", "Wasp"]
